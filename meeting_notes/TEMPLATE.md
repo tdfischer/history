@@ -1,3 +1,10 @@
+INSTRUCTIONS:
+
+1. Copy this file to <year>-<month>-<day>.md, such as 2014-06-16.md
+2. Create and pin a new topic in http://discuss.akron.io/category/meetings for
+   meeting discussion
+3. Update links at http://discuss.akron.io/t/meeting-minutes-wiki-and-links/92
+
 # Meeting
 <DATE> at <LOCATION>
 
